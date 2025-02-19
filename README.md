@@ -9,14 +9,18 @@ I am a Java and Unity developer, passionate about creating innovative solutions 
 - 🔗 I have 2 years of experience in Unity Dev and 1 years with Java
 
 ---
+#### 💻 Tech Stack
 
-## 💻 Tech Stack
 
-- Java (Spring, Hibernate, PostgreSQL, Java EE, MySQL, Oracle)
-- C# (Unity scripting)
-- Unity3D (2D/3D games, AR/VR projects)
-- Linux
-  
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
+![Csharp](https://img.shields.io/badge/-Csharp-000?&logo=sharp)
 ---
 
 ## 🤝 Let's Connect
