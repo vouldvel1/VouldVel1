@@ -4,7 +4,7 @@
 I am a Java and Unity developer, passionate about creating innovative solutions and exciting experiences. I like to create reliable server systems and exciting games, turning ideas into reality.
 
 - 🌊 I’m from Russia
-- 📚 I'm currently studying java development, and there have been very few vacancies lately.
+- 📚 I'm currently studying Java development, and there have been very few vacancies on Unity lately.
 - 🧮 I'm 19 years old.
 - 🔗 I have 2 years of experience in Unity Dev and 1 years with Java
 
