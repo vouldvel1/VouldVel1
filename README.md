@@ -1,12 +1,11 @@
 ### Hi there, I'm Markus 👋
 
 ## 🌟 About Me
-I am a Java and Unity developer, passionate about creating innovative solutions and exciting experiences. I like to create reliable server systems and exciting games, turning ideas into reality.
-
-- 🌊 I’m from Russia
-- 📚 I'm currently studying Java development, and there have been very few vacancies on Unity lately.
-- 🧮 I'm 19 years old.
-- 🔗 I have 2 years of experience in Unity Dev and 1 years with Java
+I am a Java and Unity developer passionate about creating innovative solutions and exciting experiences. I enjoy developing reliable server systems and captivating games, turning ideas into reality.
+- 🌊 I’m from Russia.
+- 📚 I'm currently focused on advancing my skills in Java development, as there have been fewer job opportunities for Unity developers recently.
+- 🧮 I’m 19 years old.
+- 🔗 I have 2 years of experience in Unity development and 1 year of experience with Java.
 
 ---
 #### 💻 Tech Stack
