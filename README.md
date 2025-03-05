@@ -17,8 +17,8 @@ I am a Java and Unity developer passionate about creating innovative solutions a
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/>
-    <img src="(https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
-    <img src="(https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"/>
