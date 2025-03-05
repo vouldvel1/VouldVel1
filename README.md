@@ -6,7 +6,6 @@ I am a Java and Unity developer passionate about creating innovative solutions a
 - 📚 I'm currently focused on advancing my skills in Java development, as there have been fewer job opportunities for Unity developers recently.
 - 🧮 I’m 19 years old.
 - 🔗 I have 2 years of experience in Unity development and 1 year of experience with Java.
-
 ---
 #### 💻 Tech Stack
 
@@ -20,6 +19,11 @@ I am a Java and Unity developer passionate about creating innovative solutions a
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
 ![Csharp](https://img.shields.io/badge/-Csharp-000?&logo=sharp)
+---
+### 🔥 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vouldvel1&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vouldvel1&theme=dark)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VouldVel1&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ## 🤝 Let's Connect
