@@ -21,9 +21,24 @@ I am a Java and Unity developer passionate about creating innovative solutions a
 ![Csharp](https://img.shields.io/badge/-Csharp-000?&logo=sharp)
 ---
 ### 🔥 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vouldvel1&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vouldvel1&theme=dark)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VouldVel1&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=Vouldvel1&show_icons=true&theme=radical"/>
+        </td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=vouldvel1&theme=dark"/>
+        </td>
+    </tr>
+</table>
+<table>
+  <tr>
+        <td>
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=VouldVel1&theme=github-compact"/>
+        </td>
+    </tr>
+</table>
 ---
 
 ## 🤝 Let's Connect
