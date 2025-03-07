@@ -41,7 +41,7 @@ I am a Java and Unity developer passionate about creating innovative solutions a
             <img src="https://github-readme-stats.vercel.app/api?username=Vouldvel1&show_icons=true&theme=radical"/>
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=vouldvel1&theme=dark"/>
+            <img src="https://streak-stats.demolab.com?user=Vouldvel1&theme=radical">
         </td>
     </tr>
 </table>
